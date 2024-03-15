@@ -10,7 +10,6 @@ from Truck import Truck
 
 
 # Function to load each package into hash table
-# Code source: 	C950 - Webinar-2 - Getting Greedy, who moved my data - Complete Python Code
 def loadPackageData(filename, packageHashTable):
     with open(filename) as packages:
         packageData = csv.reader(packages)
