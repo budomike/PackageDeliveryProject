@@ -1,4 +1,3 @@
-# Hash Table source: C950 - Webinar-1 - Let’s Go Hashing - Complete Python Code
 class ChainingHashTable:
     def __init__(self, length=10):
         # initialize the hash table with empty bucket list entries.
