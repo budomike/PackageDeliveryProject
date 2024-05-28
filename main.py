@@ -1,6 +1,3 @@
-# Michael Vu
-# Student ID: 010845718
-
 import csv
 import datetime
 
