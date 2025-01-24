@@ -12,6 +12,4 @@ This program is designed to manage package delivery logistics for a delivery com
 
 5. CLI Interface: Provides a command-line interface for users to check package statuses at specific times or overall package statuses, based on user input.
 
-6. Dynamic Address Update: Updates the address of Package #9 based on the time of day, simulating a real-world scenario where package addresses may change.
-
-7. Total Mileage Calculation: Calculates the total mileage covered by all trucks to deliver all packages.
+6. Total Mileage Calculation: Calculates the total mileage covered by all trucks to deliver all packages.
